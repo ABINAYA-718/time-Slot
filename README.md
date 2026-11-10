@@ -50,6 +50,11 @@ Create a Django application to display a daily timetable with different time slo
 
 A webpage displaying the class timetable in a properly formatted HTML table with day-wise time slots, subject names and faculty details.
 
+### Output
+
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/94f34530-7bd9-46fc-819a-da0308772865" />
+
+
 ### Additional Tasks
 
 1. Add a new field named `Classroom` to the TimeSlot model.
